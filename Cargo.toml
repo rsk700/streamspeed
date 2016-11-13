@@ -1,0 +1,4 @@
+[package]
+name = "streamspeed"
+version = "0.1.0"
+authors = ["rsk <rskbox@gmail.com>"]
