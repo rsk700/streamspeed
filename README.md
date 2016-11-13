@@ -9,3 +9,11 @@ Shows speed of data output to stdout in human readable format.
     668.00 KiB/s
     707.20 KiB/s
     722.00 KiB/s
+
+# Compile
+
+    $ cargo build --release
+
+# Install
+
+    $ cargo install
